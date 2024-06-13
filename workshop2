@@ -11,11 +11,9 @@
     <title>ยินดีต้อนรับเข้าสู่เว็บของเรา</title>
 </head>
 <body>
-        <h1>สรุปงาน workshop ทั้งหมด</h1>
+        <h3>แทรกลิงก์ข้อความ</h3>
+        <img src="images/pandaeiei.png">สวัสดีครับอิอิ</h1>
         
-        <a href="workshop1.html" >งานที่ 1 -การแทรกรูปภาพ</a><br>
-        <a href="workshop1.html" >งานที่ 2 -การเชื่อมโยงลิงก์ด้วยข้อความ</a><br>
-        <a href="workshop1.html" >งานที่ 3 -การเชื่อมโยงลิงก์ด้วยรูปภาพ</a> 
        
        
 </body>
